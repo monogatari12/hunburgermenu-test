@@ -13,7 +13,7 @@
 //     });
 // }
 // toggleNav();
-//コンストでも動くか試し=>ok!
+//constでも動くか試し=>ok!
 function toggleNav(){
   const body = document.body;
   const hamburger = document.getElementById('js-hamburger');
